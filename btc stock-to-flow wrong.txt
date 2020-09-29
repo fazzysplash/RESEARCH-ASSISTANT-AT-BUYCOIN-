@@ -1,0 +1,23 @@
+BITCOIN STOCK TO FLOW MODEL (S2F)
+Bitcoin is the first scarce digital object the world has ever seen. It uses the same model as gold and silver which is the scarcity and stock-to-flow to model bitcoin value.
+Bitcoin currently has a stock of 17.5m coins and supply of 0.7m/yr = SF 25. This places bitcoin in the monetary goods category like silver and gold. Bitcoin's market value at current prices is $70bn.
+Supply of bitcoin is fixed. New bitcoins are created in every new block. Blocks are created every 10 minutes (on average), when a miner finds the hash that satisfies the PoW required for a valid block. The first transaction in each block, called the coinbase, contains the block reward for the miner that found the block. The block reward consists of the fees that people pay for transactions in that block and the newly created coins (called subsidy). The subsidy started at 50 bitcoins, and is halved every 210,000 blocks (about 4 years). That's why 'halvings' are very important for bitcoins money supply and Stock-to-Flow. Halvings also cause the supply growth rate (in bitcoin context usually called 'monetary inflation') to be stepped and not smooth.
+The amount of newly of mined bitcoins is tiny when compared to the existing stock of bitcoin. Therefore, the hypothesis is: as bitcoin’s stock-to-flow rises, so will its price. On April 27, 2020, plan b represented his BTC S2F Cross Asset (S2FX) Model. The S2FX predicts that by 2024, BTC will be worth $288,000.
+WHY IS THE STOCK-TO-FLOW A BAD MODEL FOR BITCOIN VALUE
+1.	Gold and the dollar:
+Stock-to-flow has no direct relationship with gold’s value over the last 115 years. Gold’s market capitalization held valuations between ~$60 billion to ~$9 trillion, all at the same Stock-to-flow value of 60. A range of $8 trillion is not very indicative of explanatory power and lends itself to the obvious conclusion that other factors drive gold’s USD valuation. the value of gold/USD is the ratio of purchasing power between gold and the USD. When the purchasing power of the dollar decreases, the value of gold/USD increases and vice versa. Many cryptocurrencies which utilize Bitcoin’s code have the exact same supply schedule as Bitcoin and everyone understands their Stock-to-flow values have nothing to do with their future (or current) valuation.
+2.	STF underestimates government, regulators, business, gold:
+The stock-to-flow model underestimates the challenge of maintaining the same exponential growth as your size increases. When bitcoin went from a $1 million market cap to a $100 million market cap, the world hardly noticed or cared. Going from a $100 billion market cap to a $10 trillion market cap is also 100x growth, but it is orders of magnitude more difficult to do. That's because if bitcoin has a $10 trillion market cap, it's no longer a fly in the room. It's an elephant in the room. That would make bitcoin's market equal to the 3,000-year-old gold market. In the next phase transition, bitcoin will begin to bump its elbows against many entrenched powers: regulators, governments, banks, tax authorities, Western Union, financial services and If bitcoin threatens them, they will do whatever it takes to stop bitcoin and preserve the status quo.
+
+3.	more energy for mining:
+The higher the price goes, the more it consumes. Unless Bitcoin solves its energy consumption problem, its growth will suffer. It doesn't matter if that environmental critique is correct or not. If the powers that be want to destroy bitcoin, they can use bitcoin's hungry energy consumption as an excuse to ban it or tax it prohibitively.
+
+References 
+https://francistapon.com/Work/WanderLearn-Podcast/8-Flaws-in-Bitcoin-s-Stock-to-Flow-Model-Will-Doom-It
+https://www.coindesk.com/why-the-stock-to-flow-bitcoin-valuation-model-is-wrong
+https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25
+https://www.google.com/search?q=why+the+stf+model+is+wrong+coindesk.com&oq=why+the+stf+model+is+wrong+coindesk.com&aqs=chrome..69i57.19216j0j1&sourceid=chrome&ie=UTF-8
+https://100trillionusd.github.io/
+
+
+

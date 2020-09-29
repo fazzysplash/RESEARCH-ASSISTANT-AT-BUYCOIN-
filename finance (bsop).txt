@@ -1,0 +1,30 @@
+BSOP
+C = Price of call option
+C = Pa N(d1) – Pe N(d2)e^(-rt)
+d1 =(In(pa/pe)+(r+〖0.55〗^2 )t)/(s √t)
+d2 = d1 - s √t
+pa = stock price = $40 , pe = strike price = $45, r = risk free =3%, S = standard deviation
+d1=(In(40/45)+(0.03×〖0.5×0.4〗^2 )4/12)/(0.4 √(4/12))
+d1=(-0.1178 + 0.0024 ×0.333)/0.2309
+d1=-0.117/0.2309
+d1=-0.5067
+d2 = d1 - s √t
+ d2 =  -0.5067 -0.4 √(1/3)
+=-0.5067-0.2309
+=-0.7376
+N(d1) = N(-0.51)
+0.5- (-0.30502)
+= 0.80502
+N(d2) = 0.5 – (- 0.23270)
+= 0.7327
+C=Pa N(d1)-Pe N(d2) e^rt
+=40(0.805)-45(0.7327) e^(-0.03×0.333)  
+=40(0.805)-45(0.7327×0.99)
+= 40(0.805) – 32
+= 32.2 – 32 ≅$0.2
+Value of call option approx. =$0.2 = 20 cents.
+Black-Scholes model is a pricing model used to determine the fair price or theoretical value for a call or a put option based on six variables such as volatility, type of option, underlying stock price, time, strike price, and risk-free rate.
+
+
+
+
